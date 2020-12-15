@@ -1,0 +1,7 @@
+voila
+pandas
+numpy
+sklearn
+ipywidgets
+IPython.display
+traitlets  
