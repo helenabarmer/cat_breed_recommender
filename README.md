@@ -13,3 +13,6 @@ The recommender is made with TD-IDF and recommends similar cat breeds depending 
 * sklearn
 * pandas
 * python 
+
+## Dataset
+Dataset **Pet Breed Characteristics** can be found [here](https://www.kaggle.com/rturley/pet-breed-characteristics)
