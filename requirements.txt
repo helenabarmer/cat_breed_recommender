@@ -8,3 +8,4 @@ bqplot
 ipympl
 ipyvolume
 ipywidgets
+IPython
