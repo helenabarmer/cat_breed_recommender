@@ -2,4 +2,9 @@ voila
 pandas
 numpy
 sklearn
-ipywidgets 
+voila-material
+packaging
+bqplot
+ipympl
+ipyvolume
+ipywidgets
